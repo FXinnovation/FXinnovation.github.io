@@ -5,3 +5,5 @@ sudo: false
 
 install:
 - bundle install
+
+script: skip

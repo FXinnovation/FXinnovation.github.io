@@ -13,7 +13,7 @@ An index of the Open Source tools [FX Innovation](https://github.com/FXinnovatio
 
 # Contribution History
 
-List of community projects on which [FX Innovation](https://github.com/FXinnovation/) contributes.
+List of community projects on which [FX Innovation](https://github.com/FXinnovation/) have contributed.
 
 - [Azure Metrics Exporter](https://github.com/RobustPerception/azure_metrics_exporter)
 - [Rocket.Chat Go SDK](https://github.com/RocketChat/Rocket.Chat.Go.SDK)

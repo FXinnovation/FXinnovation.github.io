@@ -6,6 +6,7 @@ An index of the Open Source tools [FX Innovation](https://github.com/FXinnovatio
 
 ### AlertManager webhook receivers
 - [Rocket.Chat AlertManager webhook](https://github.com/FXinnovation/alertmanager-webhook-rocketchat) : forward alerts from Prometheus AlertManager to Rocket.Chat.
+- [ServiceNow AlertManager webhook](https://github.com/FXinnovation/alertmanager-webhook-servicenow) : manages ServiceNow incidents from Prometheus alerts.
 
 ### Development templates
 - [AlertManager webhook template](https://github.com/FXinnovation/alertmanager-webhook-template) : starter template for quick development of Go lang AlertManager webhook receivers.

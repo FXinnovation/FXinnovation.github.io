@@ -4,9 +4,16 @@ An index of the open source tools [FX Innovation](https://github.com/FXinnovatio
 
 ## Prometheus ecosystem
 
+### Prometheus exporters
+- [Azure Health Exporter](https://github.com/FXinnovation/azure-health-exporter) : exposes Azure Health status as metrics (up or down).
+- [Azure Resources Exporter](https://github.com/FXinnovation/azure-resources-exporter) : exposes Azure resources status as metrics (up or down).
+
 ### AlertManager webhook receivers
+- [ServiceNow AlertManager webhook](https://github.com/FXinnovation/alertmanager-webhook-servicenow) : manages ServiceNow incidents from Prometheus alerts (referenced on official [Prometheus doc](https://prometheus.io/docs/operating/integrations/#alertmanager-webhook-receiver)).
 - [Rocket.Chat AlertManager webhook](https://github.com/FXinnovation/alertmanager-webhook-rocketchat) : forward alerts from Prometheus AlertManager to Rocket.Chat.
-- [ServiceNow AlertManager webhook](https://github.com/FXinnovation/alertmanager-webhook-servicenow) : manages ServiceNow incidents from Prometheus alerts.
+
+### Web UI
+- [Alertmanager Maintenance Scheduler](https://github.com/FXinnovation/alertmanager-maintenance-scheduler) : a maintenance scheduler UI for Prometheus Alertmanager 
 
 ### Development templates
 - [AlertManager webhook template](https://github.com/FXinnovation/alertmanager-webhook-template) : starter template for quick development of Go lang AlertManager webhook receivers.

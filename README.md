@@ -7,6 +7,7 @@ An index of the open source tools [FX Innovation](https://github.com/FXinnovatio
 ### Prometheus exporters
 - [Azure Health exporter](https://github.com/FXinnovation/azure-health-exporter) : exposes Azure Health status as metrics (referenced on official [Prometheus doc](https://prometheus.io/docs/instrumenting/exporters/#apis)).
 - [Azure Resources exporter](https://github.com/FXinnovation/azure-resources-exporter) : exposes Azure Resources status as metrics.
+- [Alertmanager Silences Exporter](https://github.com/FXinnovation/alertmanager-silences-exporter) : exposes Alertmanager silences as metrics.
 
 ### Alertmanager webhook receivers
 - [ServiceNow Alertmanager webhook](https://github.com/FXinnovation/alertmanager-webhook-servicenow) : manages ServiceNow incidents from Prometheus alerts (referenced on official [Prometheus doc](https://prometheus.io/docs/operating/integrations/#alertmanager-webhook-receiver)).
